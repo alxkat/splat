@@ -1,4 +1,6 @@
 # SPLT: cli tool for fast boilerplate building
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/alxkat/splt/blob/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/splt.svg?style=flat)](https://www.npmjs.com/package/splt)
 
 ### Basic usage
 
